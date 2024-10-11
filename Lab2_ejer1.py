@@ -21,4 +21,6 @@ plt.ylabel('Ventas en Europa (millones)')
 # Mostrar el gráfico
 plt.show(block=True)
 
-#este codigo nos permite crear un grafico de barras para poder ver cual ha sido el genero de videojuegos que mas ha vendido.
+#este grafico nos permite ver cuales son los generos de videojuegos mas vendidos en europa. Esto nos sirve para realizar algun analisis sobre que tan bien se podria vender un juego dependiendo del genero
+#que se elija para crearlo, asi como para estudiar a cada uno de estos generos para poder realizar un trabajo que se asegure de vender bien. Tambien sirver para analizar lo que la gente de esta region suele
+#consumir mas en lo que a genero de videojuegos se refiere, ya que podria variar dependiendo de region.
