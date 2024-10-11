@@ -18,4 +18,6 @@ plt.ylabel('poblacion (millones)')
 # Mostrar el gráfico
 plt.show(block=True)
 
-#Este grafico de lineas esta hecho para que, de una lista de los paises, podamos sacar y saber cuales son los 10 paises mas habitados del mundo
+#Este grafico nos muestra cuales son los 10 paises mas poblados del mundo. Esto nos deja saber diferentes cosas, como la diferencia que tienen los paises entre si en cuanto a su numero de poblacion, tambien podemos
+#ver cuando son los continentes con paises mas poblados, en comparacion a los demas continentes, siendo asia el continente con los paises mas poblados. Tambien podria ayudar a realizar analisis para lanzar algun 
+#producto al mercado, ya que a mayor poblacion, mayor es la probabilidad de que un producto sea rentable, siendo por esto, que China es una de las prioridades al lanza productos al mercado.
