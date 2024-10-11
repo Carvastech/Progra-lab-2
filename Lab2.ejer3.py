@@ -19,5 +19,6 @@ plt.pie(top_5_animes['episodes'],
 plt.title('Top 5 Animes con mas capitulos listados en Crunchyroll')
 plt.show()
 
-#En este codigo, realizamos un grafico el cual, de los animes listados en la plataforma Crunchyroll, podamos ver cuales son los 5 animes con mas
-#capitulos en la plataforma, asi mismo, teniendo los porcentajes de capitulos que tiene cada anime dentro de este propio top 5.
+#En esta grafica, se pueden observar cuales son los animes 5 animes con mas capitulos listados en la plataforma crunchyroll, asi mismo, este top cinco, sirve para ver cual es el porcentaje total de capitulos abarcados
+#por anime, para asi poder ver datos como la diferencia en cuanto a porcentaje de capitulos unos con otros, y ver que en este caso, el top 1 tiene una diferencia casi del 50%. Tambien nos puede servir para ver cuanto 
+#tiempo un anime estuvo en emision, ya que entre mas capitulos posean, significa que mas tiempo han estado al aire.
